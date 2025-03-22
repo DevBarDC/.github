@@ -12,7 +12,7 @@ DevBar is a community for developers of all skill levels to connect, code, and g
 ## 💻 Get Involved
 Interested in contributing? Here's how to get started:
 
-1. **Join the Community** – Connect with us on Discord: [Join DevBar](https://discord.gg/yourlink)
+1. **Join the Community** – Connect with us on Discord: [Join DevBar](https://discord.gg/84T2aPMtyM)
 2. **Explore Projects** – Check out our repositories and find something that interests you.
 3. **Contribute** – Fork, clone, and submit a pull request to share your ideas and improvements.
 
