@@ -17,6 +17,6 @@ We are committed to fostering a welcoming and inclusive environment. By particip
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the moderators on our [Discord server](https://discord.gg/yourlink).
+If you witness or experience behavior that violates this Code of Conduct, please report it by contacting the moderators on our [Discord server](https://discord.gg/84T2aPMtyM).
 
 Thank you for helping to make DevBar a supportive and collaborative space!
